@@ -1,10 +1,25 @@
 #!/usr/bin/env/python
 """
     add-citys.py -- From a data file consisting of UF citys
-    add missing citys to VIVO
+    add missing cityies to VIVO
 
-    Version 0.0 MC 2014-01-14
+    Structures:
+    state_dict -- dictionary of existing states and provinces in VIVO keyed by
+        name.  Value is URI
+    city_dict -- dictionary of Populated Places (aka cities) in VIVO keyed by
+        name.  Value is URI
+    city_data -- from a CSV file of authoratative information about cities in
+        states to be added to VIVO
+    cities -- dictionary of data to be added to VIVO
+
+    Version 0.1 MC 2014-01-14
     --  First draft
+
+    To Do
+    --  Finish testing
+    --  Latitute and Longitude.  We have the data.  Where to put it in VIVO?
+    --  Simple VIVO -- create a round trip export.  Document as a Simple
+        VIVO data package.
 
 """
 
@@ -18,8 +33,8 @@ __harvest_text__ = "Python citys " + __version__
 from vivotools import vivo_sparql_query
 from vivotools import get_vivo_uri
 from vivotools import assert_resource_property
-from vivotools import assert_data_property
 from vivotools import update_data_property
+from vivotools import update_resource_property
 from vivotools import read_csv
 from vivotools import rdf_header
 from vivotools import rdf_footer
@@ -35,7 +50,7 @@ def make_state_dict(debug=False):
     query = """
     SELECT ?uri ?name
     WHERE {
-        ?uri a http://vivoweb.org/ontology/core#StateOrProvince .
+        ?uri a vivo:StateOrProvince .
         ?uri rdfs:label ?name .
     }"""
     result = vivo_sparql_query(query)
@@ -47,7 +62,7 @@ def make_state_dict(debug=False):
     if debug:
         print query
         if len(rows) >= 2:
-            print rows[0],rows[1]
+            print rows[0], rows[1]
         elif len(rows) == 1:
             print rows[0]
     for row in rows:
@@ -78,7 +93,7 @@ def make_city_dict(debug=False):
     if debug:
         print query
         if len(rows) >= 2:
-            print rows[0],rows[1]
+            print rows[0], rows[1]
         elif len(rows) == 1:
             print rows[0]
     for row in rows:
@@ -93,23 +108,20 @@ def add_city():
     """
     Create a city entity.  Use update_city to set attributes
     """
-    ardf = ""
     city_uri = get_vivo_uri()
     add = assert_resource_property(city_uri, "rdf:type",
         "http://vivoweb.org/ontology/core#PopulatedPlace")
-    return [ardf, city_uri]
+    return [add, city_uri]
 
 def update_city(city_uri, vivo_data, source_data):
     """
     Loop over properties
     """
     data_properties = [
-        "http://www.w3.org/2000/01/rdf-schema#label",
-        "http://vivoweb.org/ontology/core#longitude",
-        "http://vivoweb.org/ontology/core#latitude"
+        "rdfs:label",
     ]
     resource_properties = [
-        "http://vivoweb.org/ontology/core#geographicallyWithin"
+        "vivo:geographicallyWithin"
         ]
     ardf = ""
     srdf = ""
@@ -121,7 +133,7 @@ def update_city(city_uri, vivo_data, source_data):
         srdf = srdf + sub
 
     for resource_property in resource_properties:
-        vivo = vivi_data[resource_property]
+        vivo = vivo_data[resource_property]
         source = source_data[resource_property]
         [add, sub] = update_resource_property(city_uri, resource_property,\
                                               vivo, source)
@@ -130,70 +142,73 @@ def update_city(city_uri, vivo_data, source_data):
     return [ardf, srdf]
 
 class StateNotFound(Exception):
+    """
+    If the state or province of the city is not found in VIVO, this exception
+    is thrown
+    """
     pass
 
 print datetime.now(), "Start"
 print datetime.now(), "Make state dictionary"
-state_dict = make_city_dict(debug=True)
+state_dict = make_state_dict(debug=True)
 print datetime.now(), "State dictionary has ", len(state_dict), "entries"
 print datetime.now(), "Make city dictionary"
 city_dict = make_city_dict(debug=True)
 print datetime.now(), "City dictionary has ", len(city_dict), "entries"
 print datetime.now(), "Read city file"
-cities_data = read_csv("cities.csv")
-print datetime.now(), "city file has ", len(cities.items()), "entries"
+city_data = read_csv("cities.csv")
+print datetime.now(), "city file has ", len(city_data.items()), "entries"
 cities = {}
-for row in cities_data:
+for row in city_data.values():
     name = row['Name']
     if name in city_dict:
         row['city_uri'] = city_dict[name]
-    else
+    else:
         row['city_uri'] = None
     state = row['State']
     if state in state_dict:
-        row['state_uri'] = state_dict[name]
-    else
+        row['state_uri'] = state_dict[state]
+    else:
         raise StateNotFound(state)
+    if name in cities:
+        print "oops",name,"already in cities"
     cities[name] = row
-    
 
+print datetime.now(), "cities has ", len(cities.items()), "entries"
 print datetime.now(), "Begin processing"
 ardf = rdf_header()
 srdf = rdf_header()
 city_found = 0
 city_not_found = 0
-for city in cities:
+for city in cities.values():
     if city['city_uri'] is None:
         city_not_found = city_not_found + 1
         [add, city_uri] = add_city()
         ardf = ardf + add
         vivo_data = {
-        "http://www.w3.org/2000/01/rdf-schema#label": None,
-        "http://vivoweb.org/ontology/core#longitude": None,
-        "http://vivoweb.org/ontology/core#latitude": None,
-        "http://vivoweb.org/ontology/core#geographicallyWithin": None
+        "rdfs:label": None,
+        "vivo:geographicallyWithin": None
         }
         city['city_uri'] = city_uri
-    else
+    else:
         city_found = city_found + 1
         vivo_data = {
-            "http://www.w3.org/2000/01/rdf-schema#label":vivo_get_value(city_uri,"http://vivoweb.org/ontology/core#label"), 
-            "http://vivoweb.org/ontology/core#longitude":vivo_get_value(city_uri,"http://vivoweb.org/ontology/core#latitude"),
-            "http://vivoweb.org/ontology/core#latitude":vivo_get_value(city_uri,"http://vivoweb.org/ontology/core#longitude"),
-            "http://vivoweb.org/ontology/core#geographicallyWithin":vivo_get_value(city_uri,"http://vivoweb.org/ontology/core#geographicallyWithin"),
+            "rdfs:label":get_vivo_value(city['city_uri'],\
+                "rdfs:label"),
+            "vivo:geographicallyWithin":get_vivo_value(city['city_uri'],\
+                "vivo:geographicallyWithin"),
             }
+
 #   Found or not, the source data is from the CSV and we're ready for update
 
     source_data = {
-        "http://www.w3.org/2000/01/rdf-schema#label":city['name'],
-        "http://vivoweb.org/ontology/core#longitude":city['longitude'],
-        "http://vivoweb.org/ontology/core#latitude":city['latitude'],
-        "http://vivoweb.org/ontology/core#geographicallyWithin":city['state_uri']
+        "rdfs:label":city['Name'],
+        "vivo:geographicallyWithin":city['state_uri']
         }
-    [add, sub] = update_city(city_uri, vivo_data, source_data)
+    [add, sub] = update_city(city['city_uri'], vivo_data, source_data)
     ardf = ardf + add
     srdf = srdf + sub
-        
+
 print datetime.now(), "Not Found in VIVO, will be added = ", city_not_found
 print datetime.now(), "Found in UF data, will be updated = ", city_found
 print datetime.now(), "Write files"

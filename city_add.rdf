@@ -1,0 +1,3176 @@
+<rdf:RDF
+    xmlns:rdf     = "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs    = "http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:xsd     = "http://www.w3.org/2001/XMLSchema#"
+    xmlns:owl     = "http://www.w3.org/2002/07/owl#"
+    xmlns:swrl    = "http://www.w3.org/2003/11/swrl#"
+    xmlns:swrlb   = "http://www.w3.org/2003/11/swrlb#"
+    xmlns:vitro1  = "http://vitro.mannlib.cornell.edu/ns/vitro/0.7#"
+    xmlns:bibo    = "http://purl.org/ontology/bibo/"
+    xmlns:c4o     = "http://purl.org/spar/c4o/"
+    xmlns:dcelem  = "http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms = "http://purl.org/dc/terms/"
+    xmlns:event   = "http://purl.org/NET/c4dm/event.owl#"
+    xmlns:foaf    = "http://xmlns.com/foaf/0.1/"
+    xmlns:fabio   = "http://purl.org/spar/fabio/"
+    xmlns:geo     = "http://aims.fao.org/aos/geopolitical.owl#"
+    xmlns:pvs     = "http://vivoweb.org/ontology/provenance-support#"
+    xmlns:ero     = "http://purl.obolibrary.org/obo/"
+    xmlns:scires  = "http://vivoweb.org/ontology/scientific-research#"
+    xmlns:skos    = "http://www.w3.org/2004/02/skos/core#"
+    xmlns:ufVivo  = "http://vivo.ufl.edu/ontology/vivo-ufl/"
+    xmlns:vitro2  = "http://vitro.mannlib.cornell.edu/ns/vitro/public#"
+    xmlns:core    = "http://vivoweb.org/ontology/core#"
+    xmlns:vivo    = "http://vivoweb.org/ontology/core#">
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9983180108">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9983180108">
+        <rdfs:label>Arlington</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9983180108">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Texas"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7445028458">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7445028458">
+        <rdfs:label>Clarksville</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7445028458">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Tennessee"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3329552745">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3329552745">
+        <rdfs:label>Daly City</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3329552745">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5422457090">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5422457090">
+        <rdfs:label>Montgomery</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5422457090">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Alabama"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4811426106">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4811426106">
+        <rdfs:label>Newark</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4811426106">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/New_Jersey"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8135890000">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8135890000">
+        <rdfs:label>Abilene</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8135890000">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Texas"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4400743307">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4400743307">
+        <rdfs:label>Santa Rosa</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4400743307">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9559873393">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9559873393">
+        <rdfs:label>Toledo</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9559873393">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Ohio"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3982522665">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3982522665">
+        <rdfs:label>Amarillo</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3982522665">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Texas"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n959210266">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n959210266">
+        <rdfs:label>Pomona</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n959210266">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8763721530">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8763721530">
+        <rdfs:label>Henderson</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8763721530">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Nevada"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9851072179">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9851072179">
+        <rdfs:label>Bellevue</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9851072179">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Washington"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6395868799">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6395868799">
+        <rdfs:label>Thousand Oaks</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6395868799">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9588215673">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9588215673">
+        <rdfs:label>Tulsa</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9588215673">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Oklahoma"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n104499">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3118291901">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3118291901">
+        <rdfs:label>Grand Prairie</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3118291901">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Texas"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5376070515">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5376070515">
+        <rdfs:label>Fremont</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5376070515">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1659349596">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1659349596">
+        <rdfs:label>Scottsdale</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1659349596">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Arizona"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5621624219">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5621624219">
+        <rdfs:label>El Paso</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5621624219">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Texas"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5285048610">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5285048610">
+        <rdfs:label>Ann Arbor</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5285048610">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Michigan"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3290712890">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3290712890">
+        <rdfs:label>Fort Wayne</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3290712890">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Indiana"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6246326244">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6246326244">
+        <rdfs:label>Flint</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6246326244">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Michigan"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1659724289">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1659724289">
+        <rdfs:label>Santa Clarita</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1659724289">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9878138641">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9878138641">
+        <rdfs:label>Berkeley</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9878138641">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5739922116">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5739922116">
+        <rdfs:label>Hartford</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5739922116">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Connecticut"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3511962325">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3511962325">
+        <rdfs:label>Atlanta</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3511962325">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Georgia"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6128152526">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6128152526">
+        <rdfs:label>Palmdale</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6128152526">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5134292121">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5134292121">
+        <rdfs:label>Tampa</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5134292121">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Florida"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3356242124">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3356242124">
+        <rdfs:label>Elgin</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3356242124">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Illinois"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3329741598">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3329741598">
+        <rdfs:label>Inglewood</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3329741598">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3763475859">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3763475859">
+        <rdfs:label>Vallejo</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3763475859">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4087355123">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4087355123">
+        <rdfs:label>Norfolk</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4087355123">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Virginia"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n249227">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Florida"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2989216887">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2989216887">
+        <rdfs:label>Kansas City, MO</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2989216887">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Missouri"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3045688235">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3045688235">
+        <rdfs:label>Fort Collins</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3045688235">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Colorado"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9391604576">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9391604576">
+        <rdfs:label>Lexington</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9391604576">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Kentucky"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2122482725">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2122482725">
+        <rdfs:label>Corona</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2122482725">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1016325986">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1016325986">
+        <rdfs:label>Augusta</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1016325986">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Georgia"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5109865970">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5109865970">
+        <rdfs:label>Cedar Rapids</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5109865970">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Iowa"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5651003561">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5651003561">
+        <rdfs:label>Topeka</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5651003561">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Kansas"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9526639736">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9526639736">
+        <rdfs:label>Kenosha</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9526639736">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Wisconsin"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4188109445">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4188109445">
+        <rdfs:label>Joliet</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4188109445">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Illinois"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6444563083">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6444563083">
+        <rdfs:label>San Buenaventura</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6444563083">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1814677482">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1814677482">
+        <rdfs:label>Fairfield</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1814677482">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9634640394">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9634640394">
+        <rdfs:label>Virginia Beach</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9634640394">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Virginia"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7084013227">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7084013227">
+        <rdfs:label>Charlotte</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7084013227">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/North_Carolina"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6699050494">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6699050494">
+        <rdfs:label>Alexandria</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6699050494">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Virginia"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2857519660">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2857519660">
+        <rdfs:label>Cincinnati</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2857519660">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Ohio"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9216123691">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9216123691">
+        <rdfs:label>Fresno</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9216123691">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n457513394">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n457513394">
+        <rdfs:label>Savannah</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n457513394">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Georgia"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5290717672">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5290717672">
+        <rdfs:label>Hollywood</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5290717672">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Florida"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1111632433">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1111632433">
+        <rdfs:label>Beaumont</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1111632433">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Texas"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n198889670">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n198889670">
+        <rdfs:label>Washington</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n198889670">
+        <vivo:geographicallyWithin rdf:resource="http://vivo.ufl.edu/individual/n39617"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6197120065">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6197120065">
+        <rdfs:label>Fort Worth</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6197120065">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Texas"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3555819344">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3555819344">
+        <rdfs:label>Minneapolis</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3555819344">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Minnesota"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n360598">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Florida"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5957318128">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5957318128">
+        <rdfs:label>Visalia</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5957318128">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6107075731">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6107075731">
+        <rdfs:label>Long Beach</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6107075731">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n239979">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/North_Carolina"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6578846378">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6578846378">
+        <rdfs:label>Frisco</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6578846378">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Texas"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7080053916">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7080053916">
+        <rdfs:label>Colorado Springs</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7080053916">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Colorado"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7597902929">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7597902929">
+        <rdfs:label>West Covina</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7597902929">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8344464952">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8344464952">
+        <rdfs:label>Naperville</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8344464952">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Illinois"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7364089646">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7364089646">
+        <rdfs:label>Warren</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7364089646">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Michigan"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7180175243">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7180175243">
+        <rdfs:label>El Monte</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7180175243">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n390304879">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n390304879">
+        <rdfs:label>Pueblo</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n390304879">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Colorado"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9506501400">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9506501400">
+        <rdfs:label>Jackson</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9506501400">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Mississipi"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6432936668">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6432936668">
+        <rdfs:label>Kent</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6432936668">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Washington"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4215062130">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4215062130">
+        <rdfs:label>Waco</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4215062130">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Texas"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7340604029">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7340604029">
+        <rdfs:label>Sioux Falls</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7340604029">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/South_Dakota"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6583389403">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6583389403">
+        <rdfs:label>Fontana</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6583389403">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5796856972">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5796856972">
+        <rdfs:label>Allentown</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5796856972">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Pennsylvania"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8726110731">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8726110731">
+        <rdfs:label>Garden Grove</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8726110731">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2005475900">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2005475900">
+        <rdfs:label>Knoxville</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2005475900">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Tennessee"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7988423740">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7988423740">
+        <rdfs:label>Arvada</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7988423740">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Colorado"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3963460821">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3963460821">
+        <rdfs:label>North Charleston</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3963460821">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/South_Carolina"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3525446591">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3525446591">
+        <rdfs:label>Richardson</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3525446591">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Texas"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4475833479">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4475833479">
+        <rdfs:label>Surprise</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4475833479">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Arizona"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n859572145">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n859572145">
+        <rdfs:label>Port St. Lucie</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n859572145">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Florida"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1034299334">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1034299334">
+        <rdfs:label>Broken Arrow</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1034299334">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Oklahoma"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9421131590">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9421131590">
+        <rdfs:label>McAllen</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9421131590">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Texas"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7577129312">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7577129312">
+        <rdfs:label>Gilbert</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7577129312">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Arizona"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2563799274">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2563799274">
+        <rdfs:label>Laredo</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2563799274">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Texas"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3623740799">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3623740799">
+        <rdfs:label>Coral Springs</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3623740799">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Florida"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1548200715">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1548200715">
+        <rdfs:label>Murfreesboro</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1548200715">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Tennessee"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1411608776">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1411608776">
+        <rdfs:label>Elk Grove</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1411608776">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3075960326">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3075960326">
+        <rdfs:label>Oceanside</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3075960326">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1520734036">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1520734036">
+        <rdfs:label>Pittsburgh</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1520734036">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Pennsylvania"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3150544225">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3150544225">
+        <rdfs:label>New York City</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3150544225">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/New_York"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2454349634">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2454349634">
+        <rdfs:label>Everett</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2454349634">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Washington"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1903494298">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1903494298">
+        <rdfs:label>Columbus, GA</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1903494298">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Georgia"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8758880736">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8758880736">
+        <rdfs:label>Albuquerque</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8758880736">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/New_Mexico"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7388287431">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7388287431">
+        <rdfs:label>Boise</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7388287431">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Idaho"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5538509747">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5538509747">
+        <rdfs:label>Salem</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5538509747">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Oregon"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9917576329">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9917576329">
+        <rdfs:label>Palm Bay</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9917576329">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Florida"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5178630775">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5178630775">
+        <rdfs:label>Independence</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5178630775">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Missouri"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4901338961">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4901338961">
+        <rdfs:label>Honolulu</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4901338961">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Hawaii"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8230564846">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8230564846">
+        <rdfs:label>Richmond, CA</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8230564846">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2100150302">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2100150302">
+        <rdfs:label>Manchester</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2100150302">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/New_Hampshire"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3161983835">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3161983835">
+        <rdfs:label>Chula Vista</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3161983835">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8475573428">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8475573428">
+        <rdfs:label>Rockford</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8475573428">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Illinois"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7030213668">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7030213668">
+        <rdfs:label>Overland Park</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7030213668">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Kansas"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4239420350">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4239420350">
+        <rdfs:label>Spokane</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4239420350">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Washington"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9610738936">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9610738936">
+        <rdfs:label>Killeen</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9610738936">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Texas"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3675294440">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3675294440">
+        <rdfs:label>Bridgeport</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3675294440">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Connecticut"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1516682733">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1516682733">
+        <rdfs:label>Cary</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1516682733">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/North_Carolina"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9186620492">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9186620492">
+        <rdfs:label>San Jose</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9186620492">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9558209089">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9558209089">
+        <rdfs:label>Burbank</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9558209089">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5046103901">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5046103901">
+        <rdfs:label>Round Rock</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5046103901">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Texas"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4338089369">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4338089369">
+        <rdfs:label>Tucson</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4338089369">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Arizona"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8992726351">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8992726351">
+        <rdfs:label>Kansas City, KS</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8992726351">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Kansas"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8494672895">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8494672895">
+        <rdfs:label>High Point</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8494672895">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/North_Carolina"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1776273908">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1776273908">
+        <rdfs:label>Las Cruces</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1776273908">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/New_Mexico"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1797367353">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1797367353">
+        <rdfs:label>Sunnyvale</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1797367353">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9196922211">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9196922211">
+        <rdfs:label>Brownsville</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9196922211">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Texas"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1500482490">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1500482490">
+        <rdfs:label>Pasadena, CA</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1500482490">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4034274734">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4034274734">
+        <rdfs:label>Madison</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4034274734">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Wisconsin"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2809346408">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2809346408">
+        <rdfs:label>Seattle</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2809346408">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Washington"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6613724639">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6613724639">
+        <rdfs:label>Newport News</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6613724639">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Virginia"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6011420394">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6011420394">
+        <rdfs:label>Wilmington</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6011420394">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/North_Carolina"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7611855181">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7611855181">
+        <rdfs:label>Boston</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7611855181">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Massachusetts"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7153397309">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7153397309">
+        <rdfs:label>Clearwater</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7153397309">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Florida"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1859621598">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1859621598">
+        <rdfs:label>Dayton</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1859621598">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Ohio"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8465276342">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8465276342">
+        <rdfs:label>Fargo</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8465276342">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/North_Dakota"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4151814804">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4151814804">
+        <rdfs:label>Modesto</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4151814804">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5912259975">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5912259975">
+        <rdfs:label>Mesquite</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5912259975">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Texas"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3323930702">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3323930702">
+        <rdfs:label>Huntington Beach</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3323930702">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6748502502">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6748502502">
+        <rdfs:label>Tacoma</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6748502502">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Washington"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3066083929">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3066083929">
+        <rdfs:label>Provo</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3066083929">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Utah"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5707420525">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5707420525">
+        <rdfs:label>South Bend</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5707420525">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Indiana"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7506518464">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7506518464">
+        <rdfs:label>Carlsbad</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7506518464">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5172490876">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5172490876">
+        <rdfs:label>Rancho Cucamonga</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5172490876">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9939483400">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9939483400">
+        <rdfs:label>Norwalk</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9939483400">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6242977207">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6242977207">
+        <rdfs:label>Ontario</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6242977207">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7714841445">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7714841445">
+        <rdfs:label>Santa Clara</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7714841445">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1183738861">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1183738861">
+        <rdfs:label>Midland</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1183738861">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Texas"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3693367608">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3693367608">
+        <rdfs:label>Dallas</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3693367608">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Texas"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n147373962">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n147373962">
+        <rdfs:label>Waterbury</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n147373962">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Connecticut"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n979820508">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n979820508">
+        <rdfs:label>Thornton</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n979820508">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Colorado"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1096975806">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1096975806">
+        <rdfs:label>Syracuse</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1096975806">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/New_York"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6279110197">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6279110197">
+        <rdfs:label>Fullerton</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6279110197">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1619020209">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1619020209">
+        <rdfs:label>Temecula</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1619020209">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4717105101">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4717105101">
+        <rdfs:label>Lansing</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4717105101">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Michigan"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4693149965">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4693149965">
+        <rdfs:label>Providence</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4693149965">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Rhode_Island"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9274688818">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9274688818">
+        <rdfs:label>Louisville</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9274688818">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Kentucky"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9538731950">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9538731950">
+        <rdfs:label>Columbia, MO</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9538731950">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Missouri"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8159036379">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8159036379">
+        <rdfs:label>Winston–Salem</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8159036379">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/North_Carolina"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2954353338">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2954353338">
+        <rdfs:label>Erie</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2954353338">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Pennsylvania"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7299794524">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7299794524">
+        <rdfs:label>Santa Ana</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7299794524">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n955233244">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n955233244">
+        <rdfs:label>Riverside</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n955233244">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4368397954">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4368397954">
+        <rdfs:label>Miramar</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4368397954">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Florida"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1770217320">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1770217320">
+        <rdfs:label>Columbia, SC</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1770217320">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/South_Carolina"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5728387675">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5728387675">
+        <rdfs:label>Springfield, IL</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5728387675">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Illinois"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2483173345">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2483173345">
+        <rdfs:label>Indianapolis</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2483173345">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Indiana"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8362954906">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8362954906">
+        <rdfs:label>Victorville</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8362954906">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1977968247">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1977968247">
+        <rdfs:label>Norman</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1977968247">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Oklahoma"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7301267634">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7301267634">
+        <rdfs:label>Pasadena, TX</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7301267634">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Texas"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7742192132">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7742192132">
+        <rdfs:label>Pompano Beach</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7742192132">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Florida"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1133484425">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1133484425">
+        <rdfs:label>Miami Gardens</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1133484425">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Florida"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6839644700">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6839644700">
+        <rdfs:label>Baton Rouge</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6839644700">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Louisiana"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4592589304">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4592589304">
+        <rdfs:label>Cape Coral</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4592589304">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Florida"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5662450919">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5662450919">
+        <rdfs:label>Santa Maria</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5662450919">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9677781532">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9677781532">
+        <rdfs:label>Odessa</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9677781532">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Texas"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7686513383">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7686513383">
+        <rdfs:label>Rialto</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7686513383">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3517437232">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3517437232">
+        <rdfs:label>El Cajon</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3517437232">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1234878906">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1234878906">
+        <rdfs:label>Rochester, NY</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1234878906">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/New_York"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6847178740">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6847178740">
+        <rdfs:label>Shreveport</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6847178740">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Louisiana"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8084710656">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8084710656">
+        <rdfs:label>Escondido</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8084710656">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3676260782">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3676260782">
+        <rdfs:label>Akron</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3676260782">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Ohio"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1691113731">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1691113731">
+        <rdfs:label>Olathe</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1691113731">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Kansas"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9967178002">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9967178002">
+        <rdfs:label>Mesa</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9967178002">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Arizona"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3752377310">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3752377310">
+        <rdfs:label>Memphis</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3752377310">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Tennessee"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6227641816">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6227641816">
+        <rdfs:label>Green Bay</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6227641816">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Wisconsin"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3423704093">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3423704093">
+        <rdfs:label>Lincoln</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3423704093">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Nebraska"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4281873472">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4281873472">
+        <rdfs:label>Aurora, IL</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4281873472">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Illinois"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2119559162">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2119559162">
+        <rdfs:label>Saint Paul</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2119559162">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Minnesota"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5768296207">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5768296207">
+        <rdfs:label>Peoria, AZ</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5768296207">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Arizona"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n37720">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Florida"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7625776697">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7625776697">
+        <rdfs:label>Pembroke Pines</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7625776697">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Florida"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5768686714">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5768686714">
+        <rdfs:label>Detroit</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5768686714">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Michigan"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1724923857">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1724923857">
+        <rdfs:label>Athens</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1724923857">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Georgia"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1055873959">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1055873959">
+        <rdfs:label>Billings</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1055873959">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Montana"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6129623240">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6129623240">
+        <rdfs:label>Cambridge</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6129623240">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Massachusetts"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3261489674">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3261489674">
+        <rdfs:label>Tallahassee</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3261489674">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Florida"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6374638027">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6374638027">
+        <rdfs:label>Fayetteville</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6374638027">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/North_Carolina"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7538965768">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7538965768">
+        <rdfs:label>Stamford</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7538965768">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Connecticut"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8959190980">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8959190980">
+        <rdfs:label>Greensboro</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8959190980">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/North_Carolina"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1366190760">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1366190760">
+        <rdfs:label>Westminster</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1366190760">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Colorado"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7275774630">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7275774630">
+        <rdfs:label>Moreno Valley</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7275774630">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n115170207">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n115170207">
+        <rdfs:label>Columbus, OH</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n115170207">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Ohio"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7229582784">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7229582784">
+        <rdfs:label>Wichita Falls</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7229582784">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Texas"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4190757029">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4190757029">
+        <rdfs:label>Stockton</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4190757029">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n493376942">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n493376942">
+        <rdfs:label>Concord</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n493376942">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5224911703">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5224911703">
+        <rdfs:label>Little Rock</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5224911703">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Arkansas"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6244998922">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6244998922">
+        <rdfs:label>Worcester</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6244998922">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Massachusetts"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7408117046">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7408117046">
+        <rdfs:label>Oxnard</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7408117046">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2920299420">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2920299420">
+        <rdfs:label>Costa Mesa</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2920299420">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5814679228">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5814679228">
+        <rdfs:label>Roseville</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5814679228">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6963464034">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6963464034">
+        <rdfs:label>Birmingham</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6963464034">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Alabama"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2055758985">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2055758985">
+        <rdfs:label>Cleveland</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2055758985">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Ohio"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5694531168">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5694531168">
+        <rdfs:label>Downey</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5694531168">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5105960797">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5105960797">
+        <rdfs:label>Oklahoma City</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5105960797">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Oklahoma"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1606554488">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1606554488">
+        <rdfs:label>Hayward</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1606554488">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2970438071">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2970438071">
+        <rdfs:label>Lancaster</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2970438071">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n475643855">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n475643855">
+        <rdfs:label>Glendale, AZ</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n475643855">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Arizona"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1450671941">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1450671941">
+        <rdfs:label>Chicago</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1450671941">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Illinois"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8903501061">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8903501061">
+        <rdfs:label>Yonkers</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8903501061">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/New_York"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8750129142">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8750129142">
+        <rdfs:label>Lubbock</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8750129142">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Texas"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9889489321">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9889489321">
+        <rdfs:label>Rochester, MN</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9889489321">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Minnesota"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9304750796">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9304750796">
+        <rdfs:label>West Jordan</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9304750796">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Utah"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6713882563">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6713882563">
+        <rdfs:label>Sterling Heights</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6713882563">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Michigan"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6210923511">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6210923511">
+        <rdfs:label>Orange</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6210923511">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3470076065">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3470076065">
+        <rdfs:label>Springfield, MO</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3470076065">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Missouri"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8492355203">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8492355203">
+        <rdfs:label>Vancouver</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8492355203">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Washington"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3590500848">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3590500848">
+        <rdfs:label>Paterson</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3590500848">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/New_Jersey"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1774583580">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1774583580">
+        <rdfs:label>West Palm Beach</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1774583580">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Florida"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2404557387">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2404557387">
+        <rdfs:label>Richmond, VA</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2404557387">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Virginia"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n40940884">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n40940884">
+        <rdfs:label>Springfield, MA</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n40940884">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Massachusetts"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5087033413">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5087033413">
+        <rdfs:label>Chandler</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5087033413">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Arizona"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2450798659">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2450798659">
+        <rdfs:label>Torrance</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2450798659">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3687623595">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3687623595">
+        <rdfs:label>Peoria, IL</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3687623595">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Illinois"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7522654185">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7522654185">
+        <rdfs:label>Lowell</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7522654185">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Massachusetts"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4789865899">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4789865899">
+        <rdfs:label>Evansville</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4789865899">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Indiana"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1937731330">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1937731330">
+        <rdfs:label>Huntsville</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1937731330">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Alabama"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6283472126">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6283472126">
+        <rdfs:label>Irving</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6283472126">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Texas"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4476031427">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4476031427">
+        <rdfs:label>Irvine</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4476031427">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7873436702">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7873436702">
+        <rdfs:label>Mobile</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7873436702">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Alabama"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1026538327">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1026538327">
+        <rdfs:label>Grand Rapids</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1026538327">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Michigan"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6244680625">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6244680625">
+        <rdfs:label>Carrollton</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6244680625">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Texas"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n455887902">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n455887902">
+        <rdfs:label>Antioch</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n455887902">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n306861828">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n306861828">
+        <rdfs:label>Plano</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n306861828">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Texas"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2677725935">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2677725935">
+        <rdfs:label>Eugene</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2677725935">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Oregon"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n95478">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Florida"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7089203059">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7089203059">
+        <rdfs:label>Centennial</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7089203059">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Colorado"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2498540840">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2498540840">
+        <rdfs:label>North Las Vegas</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2498540840">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Nevada"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4909859512">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4909859512">
+        <rdfs:label>Bakersfield</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4909859512">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5542424643">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5542424643">
+        <rdfs:label>Chattanooga</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5542424643">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Tennessee"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9643454487">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9643454487">
+        <rdfs:label>West Valley City</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9643454487">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Utah"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8593560744">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8593560744">
+        <rdfs:label>Omaha</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8593560744">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Nebraska"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7118958099">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7118958099">
+        <rdfs:label>Jersey City</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7118958099">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/New_Jersey"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6670131583">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6670131583">
+        <rdfs:label>Anchorage</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6670131583">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Alaska"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n39449240">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n39449240">
+        <rdfs:label>Chesapeake</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n39449240">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Virginia"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4152098411">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4152098411">
+        <rdfs:label>Wichita</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4152098411">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Kansas"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2842934190">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2842934190">
+        <rdfs:label>Murrieta</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2842934190">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6966919181">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6966919181">
+        <rdfs:label>Lafayette</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6966919181">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Louisiana"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7206596083">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7206596083">
+        <rdfs:label>Glendale, CA</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7206596083">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2698054057">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2698054057">
+        <rdfs:label>Charleston</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2698054057">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/South_Carolina"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9529232655">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9529232655">
+        <rdfs:label>San Bernardino</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9529232655">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8081130610">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8081130610">
+        <rdfs:label>Davenport</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8081130610">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Iowa"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n361299534">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n361299534">
+        <rdfs:label>Portland</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n361299534">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Oregon"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n96659">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Maryland"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3467858832">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3467858832">
+        <rdfs:label>Elizabeth</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3467858832">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/New_Jersey"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n59402">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Missouri"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7570791893">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7570791893">
+        <rdfs:label>Houston</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7570791893">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Texas"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7068858555">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7068858555">
+        <rdfs:label>Hampton</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7068858555">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Virginia"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3825242060">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3825242060">
+        <rdfs:label>New Haven</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3825242060">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Connecticut"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9487632303">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9487632303">
+        <rdfs:label>Aurora, CO</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9487632303">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Colorado"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5417120063">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5417120063">
+        <rdfs:label>Garland</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5417120063">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Texas"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n207740307">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n207740307">
+        <rdfs:label>Gresham</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n207740307">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Oregon"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8790954516">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8790954516">
+        <rdfs:label>Reno</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8790954516">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Nevada"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n724597676">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n724597676">
+        <rdfs:label>Simi Valley</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n724597676">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8590742799">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8590742799">
+        <rdfs:label>Salinas</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8590742799">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n98809787">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n98809787">
+        <rdfs:label>Lakewood</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n98809787">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Colorado"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8021982796">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8021982796">
+        <rdfs:label>Des Moines</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8021982796">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Iowa"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2792573329">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2792573329">
+        <rdfs:label>Milwaukee</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2792573329">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Wisconsin"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3596088231">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3596088231">
+        <rdfs:label>Corpus Christi</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3596088231">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Texas"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2409839847">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2409839847">
+        <rdfs:label>Oakland</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2409839847">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/California"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n733289580">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#PopulatedPlace"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n733289580">
+        <rdfs:label>McKinney</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n733289580">
+        <vivo:geographicallyWithin rdf:resource="http://dbpedia.org/resource/Texas"/>
+    </rdf:Description>
+    </rdf:RDF>
