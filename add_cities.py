@@ -1,7 +1,7 @@
 #!/usr/bin/env/python
 """
-    add-citys.py -- From a data file consisting of UF citys
-    add missing cityies to VIVO
+    add-cities.py -- From a data file consisting of UF cities
+    add missing cities to VIVO
 
     Structures:
     state_dict -- dictionary of existing states and provinces in VIVO keyed by
@@ -16,7 +16,6 @@
     --  First draft
 
     To Do
-    --  Finish testing
     --  Latitute and Longitude.  We have the data.  Where to put it in VIVO?
     --  Simple VIVO -- create a round trip export.  Document as a Simple
         VIVO data package.
