@@ -1,6 +1,6 @@
 #!/usr/bin/env/python
 """
-    add-cities.py -- From a data file consisting of UF cities
+    add-cities.py -- From a data file consisting of US cities
     add missing cities to VIVO
 
     Structures:
