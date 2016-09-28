@@ -2,7 +2,7 @@
 
 Add cities in the United States with population over 100,000 in 2012 to VIVO.
 
-Each city has a name, a state, altitude and longitude.
+Each city has a name, a state, a latitude and a longitude.
 
 Look up the state in VIVO.  If not found, throw an error -- all the states need to be in VIVO.
 
