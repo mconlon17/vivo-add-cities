@@ -13,6 +13,9 @@ default states as provided in a VIVO distribution (dbpedia URLs)
 There's nothing US specific about this code.  The data file contains US cities.  Edit the data file
 to add cities of interest in provinces or regions of interest.
 
+When more than one city has the same name, the first one has a URL of its name, the second one has
+the same URL with a '1' at the end.  Third city with the same name has a '2' at the end and so on.
+
 The file cities.n3 is a data package that can be loaded into VIVO.  See the VIVO documentation regarding the
 maintenance of data packages.
 
