@@ -1,304 +1,304 @@
-1	New York	New York	"8,550,405"	"8,175,133"	4.59%	302.6 sq mi	"27,012 per sq mi"	40.6643,-73.9385
-10	San Jose	California	"1,026,908"	"945,942"	8.56%	176.6 sq mi	"5,359 per sq mi"	37.2969,-121.8193
-100	San Bernardino	California	"216,108"	"209,924"	2.95%	59.2 sq mi	"3,546 per sq mi"	34.1393,-117.2953
-101	Spokane	Washington	"213,272"	"208,916"	2.09%	59.2 sq mi	"3,526 per sq mi"	47.6736,-117.4166
-102	Birmingham	Alabama	"212,461"	"212,237"	0.11%	146.1 sq mi	"1,453 per sq mi"	33.5274,-86.7990
-103	Modesto	California	"211,266"	"201,165"	5.02%	36.9 sq mi	"5,456 per sq mi"	37.6609,-120.9891
-104	Des Moines	Iowa	"210,330"	"203,433"	3.39%	80.9 sq mi	"2,516 per sq mi"	41.5739,-93.6167
-105	Rochester	New York	"209,802"	"210,565"	_0.36%	35.8 sq mi	"5,885 per sq mi"	43.1699,-77.6169
-106	Tacoma	Washington	"207,948"	"198,397"	4.81%	49.7 sq mi	"3,990 per sq mi"	47.2522,-122.4598
-107	Fontana	California	"207,460"	"196,069"	5.81%	42.4 sq mi	"4,621 per sq mi"	34.1088,-117.4627
-108	Oxnard	California	"207,254"	"197,899"	4.73%	26.9 sq mi	"7,358 per sq mi"	34.2023,-119.2046
-109	Moreno Valley	California	"204,198"	"193,365"	5.60%	51.3 sq mi	"3,771 per sq mi"	33.9233,-117.2057
-11	Austin	Texas	"931,830"	"790,390"	17.89%	322.48 sq mi	"2,653 per sq mi"	30.3072,-97.7560
-110	Fayetteville	North Carolina	"201,963"	"200,564"	0.70%	145.8 sq mi	"1,375 per sq mi"	35.0851,-78.9803
-111	Huntington Beach	California	"201,899"	"189,992"	6.27%	26.7 sq mi	"7,103 per sq mi"	33.6906,-118.0093
-112	Yonkers	New York	"201,116"	"195,976"	2.62%	18.0 sq mi	"10,880 per sq mi"	40.9459,-73.8674
-113	Glendale	California	"201,020"	"191,719"	4.85%	30.5 sq mi	"6,295 per sq mi"	34.1814,-118.2458
-114	Aurora	Illinois	"200,661"	"197,899"	1.40%	44.9 sq mi	"4,404 per sq mi"	41.7635,-88.2901
-115	Montgomery	Alabama	"200,602"	"205,764"	_2.51%	159.6 sq mi	"1,290 per sq mi"	32.3463,-86.2686
-116	Columbus	Georgia	"200,579"	"189,885"	5.63%	216.4 sq mi	878 per sq mi	32.5102,-84.8749
-117	Amarillo	Texas	"198,645"	"190,695"	4.17%	99.5 sq mi	"1,917 per sq mi"	35.1978,-101.8287
-118	Little Rock	Arkansas	"197,992"	"193,524"	2.31%	119.2 sq mi	"1,624 per sq mi"	34.7254,-92.3586
-119	Akron	Ohio	"197,542"	"199,110"	_0.79%	62.0 sq mi	"3,210 per sq mi"	41.0805,-81.5214
-12	Jacksonville	Florida	"868,031"	"821,784"	5.63%	747.0 sq mi	"1,120 per sq mi"	30.3370,-81.6613
-120	Shreveport	Louisiana	"197,204"	"199,311"	_1.06%	105.4 sq mi	"1,891 per sq mi"	32.4670,-93.7927
-121	Augusta	Georgia	"197,182"	"195,844"	0.68%	302.5 sq mi	647 per sq mi	33.3655,-82.0734
-122	Grand Rapids	Michigan	"195,097"	"188,040"	3.75%	44.4 sq mi	"4,236 per sq mi"	42.9612,-85.6556
-123	Mobile	Alabama	"194,288"	"195,111"	_0.42%	139.1 sq mi	"1,403 per sq mi"	30.6684,-88.1002
-124	Salt Lake City	Utah	"192,672"	"186,440"	3.34%	111.1 sq mi	"1,678 per sq mi"	40.7785,-111.9314
-125	Huntsville	Alabama	"190,582"	"180,105"	5.82%	209.1 sq mi	862 per sq mi	34.7843,-86.5390
-126	Tallahassee	Florida	"189,907"	"181,376"	4.70%	100.2 sq mi	"1,809 per sq mi"	30.4551,-84.2534
-127	Grand Prairie	Texas	"187,809"	"175,396"	7.08%	72.1 sq mi	"2,433 per sq mi"	32.6842,-97.0210
-128	Overland Park	Kansas	"186,515"	"173,372"	7.58%	74.8 sq mi	"2,317 per sq mi"	38.8890,-94.6906
-129	Knoxville	Tennessee	"185,291"	"178,874"	3.59%	98.5 sq mi	"1,816 per sq mi"	35.9709,-83.9465
-13	San Francisco	California	"864,816"	"805,235"	7.40%	46.9 sq mi	"17,179 per sq mi"	37.7751,-122.4193
-130	Worcester	Massachusetts	"184,815"	"181,045"	2.08%	37.4 sq mi	"4,845 per sq mi"	42.2695,-71.8078
-131	Brownsville	Texas	"183,887"	"175,023"	5.06%	132.3 sq mi	"1,323 per sq mi"	26.0183,-97.4538
-132	Newport News	Virginia	"182,385"	"180,719"	0.92%	68.7 sq mi	"2,630 per sq mi"	37.0760,-76.5217
-133	Santa Clarita	California	"182,371"	"176,320"	3.43%	52.7 sq mi	"3,345 per sq mi"	34.4049,-118.5047
-134	Port St. Lucie	Florida	"179,413"	"164,603"	9.00%	114.0 sq mi	"1,444 per sq mi"	27.2810,-80.3838
-135	Providence	Rhode Island	"179,207"	"178,042"	0.65%	18.4 sq mi	"9,676 per sq mi"	41.8231,-71.4188
-136	Fort Lauderdale	Florida	"178,590"	"165,521"	7.90%	34.8 sq mi	"4,761 per sq mi"	26.1413,-80.1439
-137	Chattanooga	Tennessee	"176,588"	"167,674"	5.32%	137.2 sq mi	"1,223 per sq mi"	35.0665,-85.2471
-138	Tempe	Arizona	"175,826"	"161,719"	8.72%	39.9 sq mi	"4,050 per sq mi"	33.3884,-111.9318
-139	Oceanside	California	"175,691"	"167,086"	5.15%	41.2 sq mi	"4,052 per sq mi"	33.2246,-117.3062
-14	Indianapolis	Indiana	"853,173"	"820,445"	3.99%	361.4 sq mi	"2,270 per sq mi"	39.7767,-86.1459
-140	Garden Grove	California	"175,393"	"170,883"	2.64%	17.9 sq mi	"9,525 per sq mi"	33.7788,-117.9605
-141	Rancho Cucamonga	California	"175,236"	"165,269"	6.03%	39.9 sq mi	"4,147 per sq mi"	34.1233,-117.5642
-142	Cape Coral	Florida	"175,229"	"154,305"	13.56%	105.7 sq mi	"1,460 per sq mi"	26.6431,-81.9973
-143	Santa Rosa	California	"174,972"	"167,815"	4.26%	41.3 sq mi	"4,064 per sq mi"	38.4468,-122.7061
-144	Vancouver	Washington	"172,860"	"161,791"	6.84%	46.5 sq mi	"3,483 per sq mi"	45.6372,-122.5965
-145	Sioux Falls	South Dakota	"171,544"	"153,888"	11.47%	73.0 sq mi	"2,109 per sq mi"	43.5383,-96.7320
-146	Peoria	Arizona	"171,237"	"154,065"	11.15%	174.4 sq mi	883 per sq mi	33.7877,-112.3111
-147	Ontario	California	"171,214"	"163,924"	4.45%	49.9 sq mi	"3,282 per sq mi"	34.0395,-117.6088
-148	Jackson	Mississippi	"170,674"	"173,514"	_1.64%	111.0 sq mi	"1,563 per sq mi"	32.3158,-90.2128
-149	Elk Grove	California	"166,913"	"153,015"	9.08%	42.2 sq mi	"3,627 per sq mi"	38.4144,-121.3849
-15	Columbus	Ohio	"850,106"	"787,033"	8.01%	217.2 sq mi	"3,624 per sq mi"	39.9848,-82.9850
-150	Springfield	Missouri	"166,810"	"159,498"	4.58%	81.7 sq mi	"1,952 per sq mi"	37.1942,-93.2913
-151	Pembroke Pines	Florida	"166,611"	"154,019"	8.18%	33.1 sq mi	"4,672 per sq mi"	26.0212,-80.3404
-152	Salem	Oregon	"164,549"	"154,637"	6.41%	47.9 sq mi	"3,229 per sq mi"	44.9237,-123.0231
-153	Corona	California	"164,226"	"152,374"	7.78%	38.8 sq mi	"3,925 per sq mi"	33.8624,-117.5639
-154	Eugene	Oregon	"163,460"	"156,185"	4.66%	43.7 sq mi	"3,572 per sq mi"	44.0567,-123.1162
-155	McKinney	Texas	"162,898"	"131,117"	24.24%	62.2 sq mi	"2,108 per sq mi"	33.2012,-96.6680
-156	Fort Collins	Colorado	"161,175"	"143,986"	11.94%	54.3 sq mi	"2,653 per sq mi"	40.5482,-105.0648
-157	Lancaster	California	"161,103"	"156,633"	2.85%	94.3 sq mi	"1,661 per sq mi"	34.6936,-118.1753
-158	Cary	North Carolina	"159,769"	"135,234"	18.14%	54.3 sq mi	"2,488 per sq mi"	35.7821,-78.8141
-159	Palmdale	California	"158,351"	"152,750"	3.67%	106.0 sq mi	"1,442 per sq mi"	34.5913,-118.1090
-16	Fort Worth	Texas	"833,319"	"741,206"	12.43%	339.8 sq mi	"2,181 per sq mi"	32.7795,-97.3463
-160	Hayward	California	"158,289"	"144,186"	9.78%	45.3 sq mi	"3,181 per sq mi"	37.6281,-122.1063
-161	Salinas	California	"157,380"	"150,441"	4.61%	23.2 sq mi	"6,490 per sq mi"	36.6902,-121.6337
-162	Frisco	Texas	"154,407"	"116,989"	31.98%	61.8 sq mi	"1,893 per sq mi"	33.1510,-96.8193
-163	Springfield	Massachusetts	"154,341"	"153,060"	0.84%	31.9 sq mi	"4,803 per sq mi"	42.1155,-72.5400
-164	Pasadena	Texas	"153,784"	"149,043"	3.18%	42.8 sq mi	"3,485 per sq mi"	29.6583,-95.1505
-165	Macon	Georgia	"153,515"	"91,351"	68.05%	255.1 sq mi	614 per sq mi	32.505,-83.396
-166	Alexandria	Virginia	"153,511"	"139,966"	9.68%	15.0 sq mi	"9,314 per sq mi"	38.8183,-77.0820
-167	Pomona	California	"153,266"	"149,058"	2.82%	23.0 sq mi	"6,494 per sq mi"	34.0586,-117.7613
-168	Lakewood	Colorado	"152,597"	"142,980"	6.73%	42.9 sq mi	"3,334 per sq mi"	39.6989,-105.1176
-169	Sunnyvale	California	"151,754"	"140,081"	8.33%	22.0 sq mi	"6,371 per sq mi"	37.3858,-122.0263
-17	Charlotte	North Carolina	"827,097"	"731,424"	13.08%	297.7 sq mi	"2,457 per sq mi"	35.2087,-80.8307
-170	Escondido	California	"151,451"	"143,911"	5.24%	36.8 sq mi	"3,909 per sq mi"	33.1336,-117.0732
-171	Kansas City	Kansas	"151,306"	"145,786"	3.79%	124.8 sq mi	"1,168 per sq mi"	39.1225,-94.7418
-172	Hollywood	Florida	"149,728"	"140,768"	6.37%	27.4 sq mi	"5,144 per sq mi"	26.0311,-80.1646
-173	Clarksville	Tennessee	"149,176"	"132,929"	12.22%	97.6 sq mi	"1,362 per sq mi"	36.5664,-87.3452
-174	Torrance	California	"148,475"	"145,438"	2.09%	20.5 sq mi	"7,102 per sq mi"	33.8350,-118.3414
-175	Rockford	Illinois	"148,278"	"152,871"	_3.00%	61.1 sq mi	"2,503 per sq mi"	42.2634,-89.0628
-176	Joliet	Illinois	"147,861"	"147,433"	0.29%	62.1 sq mi	"2,374 per sq mi"	41.5181,-88.1584
-177	Paterson	New Jersey	"147,754"	"146,199"	1.06%	8.4 sq mi	"17,346 per sq mi"	40.9147,-74.1628
-178	Bridgeport	Connecticut	"147,629"	"144,229"	2.36%	16.0 sq mi	"9,029 per sq mi"	41.1874,-73.1957
-179	Naperville	Illinois	"147,100"	"141,853"	3.70%	38.8 sq mi	"3,659 per sq mi"	41.7492,-88.1620
-18	Seattle	Washington	"684,451"	"608,660"	12.45%	83.9 sq mi	"7,251 per sq mi"	47.6205,-122.3509
-180	Savannah	Georgia	"145,674"	"136,286"	6.89%	103.2 sq mi	"1,321 per sq mi"	32.0025,-81.1536
-181	Mesquite	Texas	"144,788"	"139,824"	3.55%	46.0 sq mi	"3,038 per sq mi"	32.7639,-96.5924
-182	Syracuse	New York	"144,142"	"145,170"	_0.71%	25.0 sq mi	"5,797 per sq mi"	43.0410,-76.1436
-183	Pasadena	California	"142,250"	"137,122"	3.74%	23.0 sq mi	"5,970 per sq mi"	34.1606,-118.1396
-184	Orange	California	"140,992"	"136,416"	3.35%	24.8 sq mi	"5,501 per sq mi"	33.8048,-117.8249
-185	Fullerton	California	"140,847"	"135,161"	4.21%	22.4 sq mi	"6,047 per sq mi"	33.8857,-117.9280
-186	Killeen	Texas	"140,806"	"127,921"	10.07%	53.6 sq mi	"2,387 per sq mi"	31.0777,-97.7320
-187	Dayton	Ohio	"140,599"	"141,527"	_0.66%	55.7 sq mi	"2,543 per sq mi"	39.7774,-84.1996
-188	McAllen	Texas	"140,269"	"129,877"	8.00%	48.3 sq mi	"2,687 per sq mi"	26.2185,-98.2461
-189	Bellevue	Washington	"139,820"	"122,363"	14.27%	32.0 sq mi	"3,828 per sq mi"	47.5978,-122.1565
-19	Denver	Colorado	"682,545"	"600,158"	13.73%	153.0 sq mi	"3,923 per sq mi"	39.7618,-104.8806
-190	Miramar	Florida	"137,132"	"122,041"	12.37%	29.5 sq mi	"4,134 per sq mi"	25.9770,-80.3358
-191	Hampton	Virginia	"136,454"	"137,436"	_0.71%	51.4 sq mi	"2,673 per sq mi"	37.0480,-76.2971
-192	West Valley City	Utah	"136,208"	"129,480"	5.20%	35.6 sq mi	"3,642 per sq mi"	40.6885,-112.0118
-193	Warren	Michigan	"135,358"	"134,056"	0.97%	34.4 sq mi	"3,899 per sq mi"	42.4929,-83.0250
-194	Olathe	Kansas	"134,305"	"125,872"	6.70%	59.7 sq mi	"2,110 per sq mi"	38.8843,-94.8188
-195	Columbia	South Carolina	"133,803"	"129,272"	3.51%	132.2 sq mi	978 per sq mi	34.0298,-80.8966
-196	Thornton	Colorado	"133,451"	"118,772"	12.36%	34.8 sq mi	"3,409 per sq mi"	39.9180,-104.9454
-197	Carrollton	Texas	"133,168"	"119,097"	11.81%	36.3 sq mi	"3,281 per sq mi"	32.9884,-96.8998
-198	Midland	Texas	"132,950"	"111,147"	19.62%	72.1 sq mi	"1,542 per sq mi"	32.0299,-102.1097
-199	Charleston	South Carolina	"132,609"	"120,083"	10.43%	109.0 sq mi	"1,102 per sq mi"	32.8179,-79.9589
-2	Los Angeles	California	"3,971,883"	"3,792,621"	4.73%	468.7 sq mi	"8,092 per sq mi"	34.0194,-118.4108
-20	El Paso	Texas	"681,124"	"649,121"	4.93%	255.2 sq mi	"2,543 per sq mi"	31.8484,-106.4270
-200	Waco	Texas	"132,356"	"124,805"	6.05%	89.0 sq mi	"1,403 per sq mi"	31.5601,-97.1860
-201	Sterling Heights	Michigan	"132,052"	"129,699"	1.81%	36.5 sq mi	"3,553 per sq mi"	42.5812,-83.0303
-202	Denton	Texas	"131,044"	"113,383"	15.58%	88.0 sq mi	"1,289 per sq mi"	33.2151,-97.1417
-203	Cedar Rapids	Iowa	"130,405"	"126,326"	3.23%	70.8 sq mi	"1,784 per sq mi"	41.9670,-91.6778
-204	New Haven	Connecticut	"130,322"	"129,779"	0.42%	18.7 sq mi	"6,948 per sq mi"	41.3108,-72.9250
-205	Roseville	California	"130,269"	"118,788"	9.67%	36.2 sq mi	"3,279 per sq mi"	38.7657,-121.3032
-206	Gainesville	Florida	"130,128"	"124,354"	4.64%	61.3 sq mi	"2,028 per sq mi"	29.6788,-82.3459
-207	Visalia	California	"130,104"	"124,442"	4.55%	36.2 sq mi	"3,433 per sq mi"	36.3272,-119.3234
-208	Coral Springs	Florida	"129,485"	"121,096"	6.93%	23.8 sq mi	"5,090 per sq mi"	26.2708,-80.2593
-209	Thousand Oaks	California	"129,339"	"126,683"	2.10%	55.0 sq mi	"2,302 per sq mi"	34.1933,-118.8742
-21	Detroit	Michigan	"677,116"	"713,777"	_5.14%	138.8 sq mi	"5,144 per sq mi"	42.3830,-83.1022
-210	Elizabeth	New Jersey	"129,007"	"124,969"	3.23%	12.3 sq mi	"10,144 per sq mi"	40.6663,-74.1935
-211	Stamford	Connecticut	"128,874"	"122,643"	5.08%	37.6 sq mi	"3,258 per sq mi"	41.0799,-73.5460
-212	Concord	California	"128,667"	"122,067"	5.41%	30.5 sq mi	"3,996 per sq mi"	37.9722,-122.0016
-213	Surprise	Arizona	"128,422"	"117,517"	9.28%	105.7 sq mi	"1,111 per sq mi"	33.6706,-112.4527
-214	Lafayette	Louisiana	"127,657"	"120,623"	5.83%	49.2 sq mi	"2,450 per sq mi"	30.2116,-92.0314
-215	Topeka	Kansas	"127,265"	"127,473"	_0.16%	60.2 sq mi	"2,119 per sq mi"	39.0362,-95.6948
-216	Kent	Washington	"126,952"	"92,411"	37.38%	28.6 sq mi	"3,228 per sq mi"	47.3853,-122.2169
-217	Simi Valley	California	"126,788"	"124,237"	2.05%	41.5 sq mi	"2,995 per sq mi"	34.2669,-118.7485
-218	Santa Clara	California	"126,215"	"116,468"	8.37%	18.4 sq mi	"6,327 per sq mi"	37.3646,-121.9679
-219	Murfreesboro	Tennessee	"126,118"	"108,755"	15.97%	55.3 sq mi	"1,965 per sq mi"	35.8522,-86.4161
-22	Washington	District of Columbia	"672,228"	"601,723"	11.72%	61.0 sq mi	"9,856 per sq mi"	38.9041,-77.0171
-220	Hartford	Connecticut	"124,006"	"124,775"	_0.62%	17.4 sq mi	"7,179 per sq mi"	41.7660,-72.6833
-221	Athens	Georgia	"122,604"	"115,452"	6.19%	116.4 sq mi	992 per sq mi	33.9496,-83.3701
-222	Victorville	California	"122,225"	"115,903"	5.45%	73.2 sq mi	"1,584 per sq mi"	34.5277,-117.3536
-223	Abilene	Texas	"121,721"	"117,063"	3.98%	106.8 sq mi	"1,096 per sq mi"	32.4545,-99.7381
-224	Vallejo	California	"121,253"	"115,942"	4.58%	30.7 sq mi	"3,780 per sq mi"	38.1079,-122.2639
-225	Berkeley	California	"120,972"	"112,580"	7.45%	10.5 sq mi	"10,752 per sq mi"	37.8667,-122.2991
-226	Norman	Oklahoma	"120,284"	"110,925"	8.44%	178.8 sq mi	621 per sq mi	35.22,-97.44
-227	Allentown	Pennsylvania	"120,207"	"118,032"	1.84%	17.5 sq mi	"6,727 per sq mi"	40.5940,-75.4782
-228	Evansville	Indiana	"119,943"	"117,429"	2.14%	44.2 sq mi	"2,660 per sq mi"	37.9877,-87.5347
-229	Columbia	Missouri	"119,108"	"108,500"	9.78%	63.1 sq mi	"1,720 per sq mi"	38.9479,-92.3261
-23	Boston	Massachusetts	"667,137"	"617,594"	8.02%	48.3 sq mi	"12,793 per sq mi"	42.3320,-71.0202
-230	Odessa	Texas	"118,968"	"99,940"	19.04%	42.0 sq mi	"2,382 per sq mi"	31.8804,-102.3434
-231	Fargo	North Dakota	"118,523"	"105,549"	12.29%	48.8 sq mi	"2,162 per sq mi"	46.8652,-96.8290
-232	Beaumont	Texas	"118,129"	"118,296"	_0.14%	82.8 sq mi	"1,429 per sq mi"	30.0843,-94.1458
-233	Independence	Missouri	"117,255"	"116,830"	0.36%	77.6 sq mi	"1,506 per sq mi"	39.0853,-94.3513
-234	Ann Arbor	Michigan	"117,070"	"113,934"	2.75%	27.8 sq mi	"4,094 per sq mi"	42.2756,-83.7313
-235	El Monte	California	"116,732"	"113,475"	2.87%	9.6 sq mi	"11,867 per sq mi"	34.0746,-118.0291
-236	Springfield	Illinois	"116,565"	"116,250"	0.27%	59.5 sq mi	"1,954 per sq mi"	39.7639,-89.6708
-237	Round Rock	Texas	"115,997"	"99,887"	16.13%	34.1 sq mi	"2,928 per sq mi"	30.5237,-97.6674
-238	Wilmington	North Carolina	"115,933"	"106,476"	8.88%	51.5 sq mi	"2,068 per sq mi"	34.2092,-77.8858
-239	Arvada	Colorado	"115,368"	"106,433"	8.39%	35.1 sq mi	"3,029 per sq mi"	39.8097,-105.1066
-24	Memphis	Tennessee	"655,770"	"646,889"	1.37%	315.1 sq mi	"2,053 per sq mi"	35.1035,-89.9785
-240	Provo	Utah	"115,264"	"112,488"	2.47%	41.7 sq mi	"2,699 per sq mi"	40.2453,-111.6448
-241	Peoria	Illinois	"115,070"	"115,007"	0.05%	48.0 sq mi	"2,396 per sq mi"	40.7523,-89.6171
-242	Lansing	Michigan	"115,056"	"114,297"	0.66%	36.0 sq mi	"3,171 per sq mi"	42.7098,-84.5562
-243	Downey	California	"114,219"	"111,772"	2.19%	12.4 sq mi	"9,008 per sq mi"	33.9382,-118.1309
-244	Carlsbad	California	"113,453"	"105,328"	7.71%	37.7 sq mi	"2,792 per sq mi"	33.1239,-117.2828
-245	Costa Mesa	California	"113,204"	"109,960"	2.95%	15.7 sq mi	"7,025 per sq mi"	33.6659,-117.9123
-246	Miami Gardens	Florida	"113,187"	"107,167"	5.62%	18.2 sq mi	"5,878 per sq mi"	25.9489,-80.2436
-247	Westminster	Colorado	"113,130"	"106,114"	6.61%	31.6 sq mi	"3,363 per sq mi"	39.8822,-105.0644
-248	Clearwater	Florida	"113,003"	"107,685"	4.94%	25.6 sq mi	"4,213 per sq mi"	27.9795,-82.7663
-249	Fairfield	California	"112,970"	"105,321"	7.26%	37.4 sq mi	"2,817 per sq mi"	38.2568,-122.0397
-25	Nashville	Tennessee	"654,610"	"601,222"	8.88%	475.1 sq mi	"1,265 per sq mi"	36.1718,-86.7850
-250	Rochester	Minnesota	"112,225"	"106,769"	5.11%	54.6 sq mi	"1,956 per sq mi"	44.0154,-92.4772
-251	Elgin	Illinois	"112,111"	"108,188"	3.63%	37.2 sq mi	"2,911 per sq mi"	42.0396,-88.3217
-252	Temecula	California	"112,011"	"100,097"	11.90%	30.2 sq mi	"3,320 per sq mi"	33.5019,-117.1246
-253	West Jordan	Utah	"111,946"	"103,712"	7.94%	32.5 sq mi	"3,195 per sq mi"	40.6023,-112.0010
-254	Inglewood	California	"111,666"	"109,673"	1.82%	9.1 sq mi	"12,095 per sq mi"	33.9561,-118.3443
-255	Richardson	Texas	"110,815"	"99,223"	11.68%	28.6 sq mi	"3,474 per sq mi"	32.9723,-96.7081
-256	Lowell	Massachusetts	"110,699"	"106,519"	3.92%	13.6 sq mi	"7,842 per sq mi"	42.6389,-71.3221
-257	Gresham	Oregon	"110,553"	"105,594"	4.70%	23.2 sq mi	"4,551 per sq mi"	45.5023,-122.4416
-258	Antioch	California	"110,542"	"102,372"	7.98%	28.3 sq mi	"3,611 per sq mi"	37.9775,-121.7976
-259	Cambridge	Massachusetts	"110,402"	"105,162"	4.98%	6.4 sq mi	"16,469 per sq mi"	42.3760,-71.1183
-26	Portland	Oregon	"632,309"	"583,776"	8.31%	133.4 sq mi	"4,375 per sq mi"	45.5370,-122.6500
-260	High Point	North Carolina	"110,268"	"104,371"	5.65%	53.8 sq mi	"1,940 per sq mi"	35.9855,-79.9902
-261	Billings	Montana	"110,263"	"104,170"	5.85%	43.4 sq mi	"2,399 per sq mi"	45.7895,-108.5499
-262	Manchester	New Hampshire	"110,229"	"109,565"	0.61%	33.1 sq mi	"3,310 per sq mi"	42.9847,-71.4439
-263	Murrieta	California	"109,830"	"103,466"	6.15%	33.6 sq mi	"3,081 per sq mi"	33.5719,-117.1907
-264	Centennial	Colorado	"109,741"	"100,377"	9.33%	28.7 sq mi	"3,495 per sq mi"	39.5906,-104.8691
-265-(T)	Richmond	California	"109,708"	"103,701"	5.79%	30.1 sq mi	"3,449 per sq mi"	37.9530,-122.3594
-265-(T)	Ventura	California	"109,708"	"106,433"	3.08%	21.7 sq mi	"4,915 per sq mi"	34.2681,-119.2550
-267	Pueblo	Colorado	"109,412"	"106,595"	2.64%	53.6 sq mi	"1,987 per sq mi"	38.2731,-104.6124
-268	Pearland	Texas	"108,821"	"91,252"	19.25%	47.5 sq mi	"1,900 per sq mi"	29.5544,-95.2958
-269	Waterbury	Connecticut	"108,802"	"110,366"	_1.42%	28.5 sq mi	"3,870 per sq mi"	41.5585,-73.0367
-27	Oklahoma City	Oklahoma	"631,346"	"579,999"	8.85%	606.4 sq mi	956 per sq mi	35.4671,-97.5137
-270	West Covina	California	"108,484"	"106,098"	2.25%	16.0 sq mi	"6,614 per sq mi"	34.0559,-117.9099
-271	North Charleston	South Carolina	"108,304"	"97,471"	11.11%	76.6 sq mi	"1,393 per sq mi"	32.8853,-80.0169
-272	Everett	Washington	"108,010"	"103,019"	4.84%	33.4 sq mi	"3,080 per sq mi"	48.0033,-122.1742
-273	College Station	Texas	"107,889"	"93,857"	14.95%	49.6 sq mi	"1,978 per sq mi"	30.6013,-96.3144
-274	Palm Bay	Florida	"107,888"	"103,190"	4.55%	65.7 sq mi	"1,571 per sq mi"	27.9856,-80.6626
-275	Pompano Beach	Florida	"107,762"	"99,845"	7.93%	24.0 sq mi	"4,160 per sq mi"	26.2426,-80.1290
-276	Boulder	Colorado	"107,349"	"97,385"	10.23%	25.7 sq mi	"3,947 per sq mi"	40.0175,-105.2797
-277	Norwalk	California	"107,140"	"105,549"	1.51%	9.7 sq mi	"10,873 per sq mi"	33.9069,-118.0834
-278	West Palm Beach	Florida	"106,779"	"99,919"	6.87%	55.3 sq mi	"1,807 per sq mi"	26.7483,-80.1266
-279	Broken Arrow	Oklahoma	"106,563"	"98,850"	7.80%	61.6 sq mi	"1,605 per sq mi"	36.0365,-95.7810
-28	Las Vegas	Nevada	"623,747"	"583,756"	6.85%	135.8 sq mi	"4,298 per sq mi"	36.2277,-115.2640
-280	Daly City	California	"106,562"	"101,123"	5.38%	7.7 sq mi	"13,195 per sq mi"	37.7009,-122.4650
-281	Sandy Springs	Georgia	"105,330"	"93,853"	12.23%	39.0 sq mi	"2,613.0 per sq mi"	33.5615,-84.227
-282	Burbank	California	"105,319"	"103,340"	1.92%	17.3 sq mi	"5,959 per sq mi"	34.1890,-118.3249
-283	Green Bay	Wisconsin	"105,207"	"104,057"	1.11%	45.5 sq mi	"2,289 per sq mi"	44.5207,-87.9842
-284	Santa Maria	California	"105,093"	"99,553"	5.56%	22.8 sq mi	"4,375 per sq mi"	34.9332,-120.4438
-285	Wichita Falls	Texas	"104,710"	"104,553"	0.15%	72.1 sq mi	"1,449 per sq mi"	33.9067,-98.5259
-286	Lakeland	Florida	"104,401"	"97,422"	7.16%	74.4 sq mi	"1,711 per sq mi"	28.0411,-81.9589
-287	Clovis	California	"104,180"	"95,631"	8.94%	23.3 sq mi	"4,386 per sq mi"	36.4931,-119.4211
-288	Lewisville	Texas	"104,039"	"95,290"	9.18%	42.5 sq mi	"2,618 per sq mi"	33.0383,-97.0061
-289	Tyler	Texas	"103,700"	"96,900"	7.02%	54.4 sq mi	"1,782 per sq mi"	32.35,-95.30
-29	Baltimore	Maryland	"621,849"	"620,961"	0.14%	80.9 sq mi	"7,672 per sq mi"	39.3002,-76.6105
-290	El Cajon	California	"103,679"	"99,478"	4.22%	14.4 sq mi	"6,892 per sq mi"	32.8017,-116.9605
-291	San Mateo	California	"103,536"	"97,207"	6.51%	15.9 sq mi	"8,014 per sq mi"	37.5542,-122.3131
-292	Rialto	California	"103,132"	"99,171"	3.99%	22.4 sq mi	"4,437 per sq mi"	34.1118,-117.3883
-293	Edison	New Jersey	"102,701"	"99,967"	2.73%	30.6 sq mi	"3,339.0 per sq mi"	40.5040,-74.3494
-294	Davenport	Iowa	"102,582"	"99,685"	2.91%	62.9 sq mi	"1,584 per sq mi"	41.5541,-90.6040
-295	Hillsboro	Oregon	"102,347"	"91,611"	11.72%	24.3 sq mi	"3,833 per sq mi"	45.5167,-122.9833
-296	Woodbridge	New Jersey	"102,105"	"99,585"	2.53%	24.5 sq mi	"4,290.0 per sq mi"	40.5608,-74.2926
-297	Las Cruces	New Mexico	"101,643"	"97,618"	4.12%	76.3 sq mi	"1,279 per sq mi"	32.3197,-106.7653
-298	South Bend	Indiana	"101,516"	"101,168"	0.34%	41.5 sq mi	"2,440 per sq mi"	41.6769,-86.2690
-299	Vista	California	"100,890"	"93,834"	7.52%	18.7 sq mi	"5,000 per sq mi"	33.1936,-117.2411
-3	Chicago	Illinois	"2,720,546"	"2,695,598"	0.93%	227.6 sq mi	"11,842 per sq mi"	41.8376,-87.6818
-30	Louisville	Kentucky	"615,366"	"597,337"	3.02%	325.2 sq mi	"1,837 per sq mi"	38.1781,-85.6667
-300	Greeley	Colorado	"100,883"	"92,889"	8.61%	30.0 sq mi	"3,107 per sq mi"	40.4167,-104.7167
-301	Davie	Florida	"100,882"	"91,992"	9.66%	35.7 sq mi	"2,637 per sq mi"	26.0814,-80.2803
-302	San Angelo	Texas	"100,450"	"93,200"	7.78%	58.2 sq mi	"1,640 per sq mi"	31.45,-100.45
-303	Jurupa Valley	California	"100,314"	0	NA	43.5 sq mi	"2,272 per sq mi"	33.0011,-117.4706
-304	Renton	Washington	"100,242"	"90,927"	10.24%	23.5 sq mi	"3,933 per sq mi"	47.4867,-122.1953
-31	Milwaukee	Wisconsin	"600,155"	"594,833"	0.89%	96.1 sq mi	"6,188 per sq mi"	43.0633,-87.9667
-32	Albuquerque	New Mexico	"559,121"	"545,852"	2.43%	187.7 sq mi	"2,908 per sq mi"	35.1056,-106.6474
-33	Tucson	Arizona	"531,641"	"520,116"	2.22%	226.7 sq mi	"2,294 per sq mi"	32.1543,-110.8711
-34	Fresno	California	"520,052"	"494,665"	5.13%	113.2 sq mi	"4,418 per sq mi"	36.7827,-119.7945
-35	Sacramento	California	"490,712"	"466,488"	5.19%	97.9 sq mi	"4,764 per sq mi"	38.5666,-121.4686
-36	Kansas City	Missouri	"475,378"	"459,787"	3.39%	315.0 sq mi	"1,460 per sq mi"	39.1252,-94.5511
-37	Long Beach	California	"474,140"	"462,257"	2.57%	50.3 sq mi	"9,191 per sq mi"	33.8091,-118.1553
-38	Mesa	Arizona	"471,825"	"439,041"	7.47%	136.5 sq mi	"3,218 per sq mi"	33.4019,-111.7174
-39	Atlanta	Georgia	"463,878"	"420,003"	10.45%	133.2 sq mi	"3,154 per sq mi"	33.7629,-84.4227
-4	Houston	Texas	"2,296,224"	"2,100,263"	9.33%	599.6 sq mi	"3,501 per sq mi"	29.7805,-95.3863
-40	Colorado Springs	Colorado	"456,568"	"416,427"	9.64%	194.5 sq mi	"2,141 per sq mi"	38.8673,-104.7607
-41	Virginia Beach	Virginia	"452,745"	"437,994"	3.37%	249.0 sq mi	"1,759 per sq mi"	36.7793,-76.0240
-42	Raleigh	North Carolina	"451,066"	"403,892"	11.68%	142.9 sq mi	"2,826 per sq mi"	35.8302,-78.6414
-43	Omaha	Nebraska	"443,885"	"408,958"	8.54%	127.1 sq mi	"3,218 per sq mi"	41.2647,-96.0419
-44	Miami	Florida	"441,003"	"399,457"	10.40%	35.9 sq mi	"11,539 per sq mi"	25.7752,-80.2086
-45	Oakland	California	"419,267"	"390,724"	7.31%	55.9 sq mi	"7,004 per sq mi"	37.7699,-122.2256
-46	Minneapolis	Minnesota	"410,939"	"382,578"	7.41%	54.0 sq mi	"7,088 per sq mi"	44.9633,-93.2683
-47	Tulsa	Oklahoma	"403,505"	"391,906"	2.96%	196.8 sq mi	"1,992 per sq mi"	36.1279,-95.9023
-48	Wichita	Kansas	"389,965"	"382,368"	1.99%	159.3 sq mi	"2,400 per sq mi"	37.6907,-97.3427
-49	New Orleans	Louisiana	"389,617"	"343,829"	13.32%	169.4 sq mi	"2,029 per sq mi"	30.0686,-89.9390
-5	Philadelphia	Pennsylvania	"1,567,442"	"1,526,006"	2.72%	134.1 sq mi	"11,379 per sq mi"	40.0094,-75.1333
-50	Arlington	Texas	"388,125"	"365,438"	6.21%	95.9 sq mi	"3,811 per sq mi"	32.7007,-97.1247
-51	Cleveland	Ohio	"388,072"	"396,815"	_2.20%	77.7 sq mi	"5,107 per sq mi"	41.4781,-81.6795
-52	Bakersfield	California	"373,640"	"347,483"	7.53%	142.2 sq mi	"2,444 per sq mi"	35.3212,-119.0183
-53	Tampa	Florida	"369,075"	"335,709"	9.94%	113.4 sq mi	"3,077 per sq mi"	27.9701,-82.4797
-54	Aurora	Colorado	"359,407"	"325,078"	10.56%	154.1 sq mi	"2,110 per sq mi"	39.7082,-104.8235
-55	Honolulu	Hawai'i	"352,769"	"337,256"	4.60%	60.5 sq mi	"5,573 per sq mi"	21.3259,-157.8453
-56	Anaheim	California	"350,742"	"336,265"	4.31%	49.8 sq mi	"6,748 per sq mi"	33.8555,-117.7601
-57	Santa Ana	California	"335,400"	"324,528"	3.35%	27.3 sq mi	"11,901 per sq mi"	33.7365,-117.8826
-58	Corpus Christi	Texas	"324,074"	"305,215"	6.18%	160.6 sq mi	"1,900 per sq mi"	27.7543,-97.1734
-59	Riverside	California	"322,424"	"303,871"	6.11%	81.1 sq mi	"3,745 per sq mi"	33.9381,-117.3932
-6	Phoenix	Arizona	"1,563,025"	"1,445,632"	8.12%	516.7 sq mi	"2,798 per sq mi"	33.5722,-112.0880
-60	St. Louis	Missouri	"315,685"	"319,294"	_1.13%	61.9 sq mi	"5,157 per sq mi"	38.6357,-90.2446
-61	Lexington	Kentucky	"314,488"	"295,803"	6.32%	283.6 sq mi	"1,043 per sq mi"	38.0402,-84.4584
-62	Stockton	California	"305,658"	"291,707"	4.78%	61.7 sq mi	"4,730 per sq mi"	37.9763,-121.3133
-63	Pittsburgh	Pennsylvania	"304,391"	"305,704"	_0.43%	55.4 sq mi	"5,521 per sq mi"	40.4398,-79.9766
-64	Saint Paul	Minnesota	"300,851"	"285,068"	5.54%	52.0 sq mi	"5,484 per sq mi"	44.9489,-93.1039
-65	Anchorage	Alaska	"298,695"	"291,826"	2.35%	"1,704.7 sq mi"	171 per sq mi	61.2176,-149.8953
-66	Cincinnati	Ohio	"298,550"	"296,943"	0.54%	77.9 sq mi	"3,810 per sq mi"	39.1399,-84.5064
-67	Henderson	Nevada	"285,667"	"257,729"	10.84%	107.7 sq mi	"2,392 per sq mi"	36.0122,-115.0375
-68	Greensboro	North Carolina	"285,342"	"269,666"	5.81%	126.5 sq mi	"2,131 per sq mi"	36.0965,-79.8271
-69	Plano	Texas	"283,558"	"259,841"	9.13%	71.6 sq mi	"3,630 per sq mi"	33.0508,-96.7479
-7	San Antonio	Texas	"1,469,845"	"1,327,407"	10.73%	460.9 sq mi	"2,880 per sq mi"	29.4724,-98.5251
-70	Newark	New Jersey	"281,944"	"277,140"	1.73%	24.2 sq mi	"11,458 per sq mi"	40.7242,-74.1726
-71	Toledo	Ohio	"279,789"	"287,208"	_2.58%	80.7 sq mi	"3,559 per sq mi"	41.6641,-83.5819
-72	Lincoln	Nebraska	"277,348"	"258,379"	7.34%	89.1 sq mi	"2,899 per sq mi"	40.8090,-96.6804
-73	Orlando	Florida	"270,934"	"238,300"	13.69%	102.4 sq mi	"2,327 per sq mi"	28.4159,-81.2988
-74	Chula Vista	California	"265,757"	"243,916"	8.95%	49.6 sq mi	"4,915 per sq mi"	32.6277,-117.0152
-75	Jersey City	New Jersey	"264,290"	"247,597"	6.74%	14.8 sq mi	"16,737 per sq mi"	40.7114,-74.0648
-76	Chandler	Arizona	"260,828"	"236,123"	10.46%	64.4 sq mi	"3,666 per sq mi"	33.2829,-111.8549
-77	Fort Wayne	Indiana	"260,326"	"253,691"	2.62%	110.6 sq mi	"2,293 per sq mi"	41.0882,-85.1439
-78	Buffalo	New York	"258,071"	"261,310"	_1.24%	40.4 sq mi	"6,471 per sq mi"	42.8925,-78.8597
-79	Durham	North Carolina	"257,636"	"228,330"	12.83%	107.4 sq mi	"2,127 per sq mi"	35.9810,-78.9056
-8	San Diego	California	"1,394,928"	"1,307,402"	6.69%	325.2 sq mi	"4,020 per sq mi"	32.8153,-117.1350
-80	St. Petersburg	Florida	"257,083"	"244,769"	5.03%	61.7 sq mi	"3,964 per sq mi"	27.7620,-82.6441
-81	Irvine	California	"256,927"	"212,375"	20.98%	66.1 sq mi	"3,213 per sq mi"	33.6784,-117.7713
-82	Laredo	Texas	"255,473"	"236,091"	8.21%	88.9 sq mi	"2,655 per sq mi"	27.5477,-99.4869
-83	Lubbock	Texas	"249,042"	"229,573"	8.48%	122.4 sq mi	"1,875 per sq mi"	33.5665,-101.8867
-84	Madison	Wisconsin	"248,951"	"233,209"	6.75%	76.8 sq mi	"3,037 per sq mi"	43.0878,-89.4301
-85	Gilbert	Arizona	"247,542"	"208,453"	18.75%	68.0 sq mi	"3,067 per sq mi"	33.3102,-111.7422
-86	Norfolk	Virginia	"246,393"	"242,803"	1.48%	54.1 sq mi	"4,486 per sq mi"	36.9230,-76.2446
-87	Reno	Nevada	"241,445"	"225,221"	7.20%	103.0 sq mi	"2,186 per sq mi"	39.4745,-119.7765
-88	Winston-Salem	North Carolina	"241,218"	"229,617"	5.05%	132.4 sq mi	"1,734 per sq mi"	36.1033,-80.2606
-89	Glendale	Arizona	"240,126"	"226,721"	5.91%	60.0 sq mi	"3,780 per sq mi"	33.5331,-112.1899
-9	Dallas	Texas	"1,300,092"	"1,197,816"	8.54%	340.5 sq mi	"3,518 per sq mi"	32.7757,-96.7967
-90	Hialeah	Florida	"237,069"	"224,669"	5.52%	21.5 sq mi	"10,474 per sq mi"	25.8699,-80.3029
-91	Garland	Texas	"236,897"	"226,876"	4.42%	57.1 sq mi	"3,974 per sq mi"	32.9098,-96.6304
-92	Scottsdale	Arizona	"236,839"	"217,385"	8.95%	183.9 sq mi	"1,182 per sq mi"	33.6687,-111.8237
-93	Irving	Texas	"236,607"	"216,290"	9.39%	67.0 sq mi	"3,227 per sq mi"	32.8577,-96.9700
-94	Chesapeake	Virginia	"235,429"	"222,209"	5.95%	340.8 sq mi	652 per sq mi	36.6794,-76.3018
-95	North Las Vegas	Nevada	"234,807"	"216,961"	8.23%	101.3 sq mi	"2,141 per sq mi"	36.2830,-115.0893
-96	Fremont	California	"232,206"	"214,089"	8.46%	77.5 sq mi	"2,764 per sq mi"	37.4944,-121.9411
-97	Baton Rouge	Louisiana	"228,590"	"229,493"	_0.39%	76.9 sq mi	"2,982 per sq mi"	30.4485,-91.1259
-98	Richmond	Virginia	"220,289"	"204,214"	7.87%	59.8 sq mi	"3,415 per sq mi"	37.5314,-77.4760
-99	Boise	Idaho	"218,281"	"205,671"	6.13%	79.4 sq mi	"2,592 per sq mi"	43.5985,-116.2311
+New York	New York	40.6643,-73.9385
+San Jose	California	37.2969,-121.8193
+San Bernardino	California	34.1393,-117.2953
+Spokane	Washington	47.6736,-117.4166
+Birmingham	Alabama	33.5274,-86.7990
+Modesto	California	37.6609,-120.9891
+Des Moines	Iowa	41.5739,-93.6167
+Rochester	New York	43.1699,-77.6169
+Tacoma	Washington	47.2522,-122.4598
+Fontana	California	34.1088,-117.4627
+Oxnard	California	34.2023,-119.2046
+Moreno Valley	California	33.9233,-117.2057
+Austin	Texas	30.3072,-97.7560
+Fayetteville	North Carolina	35.0851,-78.9803
+Huntington Beach	California	33.6906,-118.0093
+Yonkers	New York	40.9459,-73.8674
+Glendale	California	34.1814,-118.2458
+Aurora	Illinois	41.7635,-88.2901
+Montgomery	Alabama	32.3463,-86.2686
+Columbus	Georgia	32.5102,-84.8749
+Amarillo	Texas	35.1978,-101.8287
+Little Rock	Arkansas	34.7254,-92.3586
+Akron	Ohio	41.0805,-81.5214
+Jacksonville	Florida	30.3370,-81.6613
+Shreveport	Louisiana	32.4670,-93.7927
+Augusta	Georgia	33.3655,-82.0734
+Grand Rapids	Michigan	42.9612,-85.6556
+Mobile	Alabama	30.6684,-88.1002
+Salt Lake City	Utah	40.7785,-111.9314
+Huntsville	Alabama	34.7843,-86.5390
+Tallahassee	Florida	30.4551,-84.2534
+Grand Prairie	Texas	32.6842,-97.0210
+Overland Park	Kansas	38.8890,-94.6906
+Knoxville	Tennessee	35.9709,-83.9465
+San Francisco	California	37.7751,-122.4193
+Worcester	Massachusetts	42.2695,-71.8078
+Brownsville	Texas	26.0183,-97.4538
+Newport News	Virginia	37.0760,-76.5217
+Santa Clarita	California	34.4049,-118.5047
+Port St. Lucie	Florida	27.2810,-80.3838
+Providence	Rhode Island	41.8231,-71.4188
+Fort Lauderdale	Florida	26.1413,-80.1439
+Chattanooga	Tennessee	35.0665,-85.2471
+Tempe	Arizona	33.3884,-111.9318
+Oceanside	California	33.2246,-117.3062
+Indianapolis	Indiana	39.7767,-86.1459
+Garden Grove	California	33.7788,-117.9605
+Rancho Cucamonga	California	34.1233,-117.5642
+Cape Coral	Florida	26.6431,-81.9973
+Santa Rosa	California	38.4468,-122.7061
+Vancouver	Washington	45.6372,-122.5965
+Sioux Falls	South Dakota	43.5383,-96.7320
+Peoria	Arizona	33.7877,-112.3111
+Ontario	California	34.0395,-117.6088
+Jackson	Mississippi	32.3158,-90.2128
+Elk Grove	California	38.4144,-121.3849
+Columbus	Ohio	39.9848,-82.9850
+Springfield	Missouri	37.1942,-93.2913
+Pembroke Pines	Florida	26.0212,-80.3404
+Salem	Oregon	44.9237,-123.0231
+Corona	California	33.8624,-117.5639
+Eugene	Oregon	44.0567,-123.1162
+McKinney	Texas	33.2012,-96.6680
+Fort Collins	Colorado	40.5482,-105.0648
+Lancaster	California	34.6936,-118.1753
+Cary	North Carolina	35.7821,-78.8141
+Palmdale	California	34.5913,-118.1090
+Fort Worth	Texas	32.7795,-97.3463
+Hayward	California	37.6281,-122.1063
+Salinas	California	36.6902,-121.6337
+Frisco	Texas	33.1510,-96.8193
+Springfield	Massachusetts	42.1155,-72.5400
+Pasadena	Texas	29.6583,-95.1505
+Macon	Georgia	32.505,-83.396
+Alexandria	Virginia	38.8183,-77.0820
+Pomona	California	34.0586,-117.7613
+Lakewood	Colorado	39.6989,-105.1176
+Sunnyvale	California	37.3858,-122.0263
+Charlotte	North Carolina	35.2087,-80.8307
+Escondido	California	33.1336,-117.0732
+Kansas City	Kansas	39.1225,-94.7418
+Hollywood	Florida	26.0311,-80.1646
+Clarksville	Tennessee	36.5664,-87.3452
+Torrance	California	33.8350,-118.3414
+Rockford	Illinois	42.2634,-89.0628
+Joliet	Illinois	41.5181,-88.1584
+Paterson	New Jersey	40.9147,-74.1628
+Bridgeport	Connecticut	41.1874,-73.1957
+Naperville	Illinois	41.7492,-88.1620
+Seattle	Washington	47.6205,-122.3509
+Savannah	Georgia	32.0025,-81.1536
+Mesquite	Texas	32.7639,-96.5924
+Syracuse	New York	43.0410,-76.1436
+Pasadena	California	34.1606,-118.1396
+Orange	California	33.8048,-117.8249
+Fullerton	California	33.8857,-117.9280
+Killeen	Texas	31.0777,-97.7320
+Dayton	Ohio	39.7774,-84.1996
+McAllen	Texas	26.2185,-98.2461
+Bellevue	Washington	47.5978,-122.1565
+Denver	Colorado	39.7618,-104.8806
+Miramar	Florida	25.9770,-80.3358
+Hampton	Virginia	37.0480,-76.2971
+West Valley City	Utah	40.6885,-112.0118
+Warren	Michigan	42.4929,-83.0250
+Olathe	Kansas	38.8843,-94.8188
+Columbia	South Carolina	34.0298,-80.8966
+Thornton	Colorado	39.9180,-104.9454
+Carrollton	Texas	32.9884,-96.8998
+Midland	Texas	32.0299,-102.1097
+Charleston	South Carolina	32.8179,-79.9589
+Los Angeles	California	34.0194,-118.4108
+El Paso	Texas	31.8484,-106.4270
+Waco	Texas	31.5601,-97.1860
+Sterling Heights	Michigan	42.5812,-83.0303
+Denton	Texas	33.2151,-97.1417
+Cedar Rapids	Iowa	41.9670,-91.6778
+New Haven	Connecticut	41.3108,-72.9250
+Roseville	California	38.7657,-121.3032
+Gainesville	Florida	29.6788,-82.3459
+Visalia	California	36.3272,-119.3234
+Coral Springs	Florida	26.2708,-80.2593
+Thousand Oaks	California	34.1933,-118.8742
+Detroit	Michigan	42.3830,-83.1022
+Elizabeth	New Jersey	40.6663,-74.1935
+Stamford	Connecticut	41.0799,-73.5460
+Concord	California	37.9722,-122.0016
+Surprise	Arizona	33.6706,-112.4527
+Lafayette	Louisiana	30.2116,-92.0314
+Topeka	Kansas	39.0362,-95.6948
+Kent	Washington	47.3853,-122.2169
+Simi Valley	California	34.2669,-118.7485
+Santa Clara	California	37.3646,-121.9679
+Murfreesboro	Tennessee	35.8522,-86.4161
+Washington	District of Columbia	38.9041,-77.0171
+Hartford	Connecticut	41.7660,-72.6833
+Athens	Georgia	33.9496,-83.3701
+Victorville	California	34.5277,-117.3536
+Abilene	Texas	32.4545,-99.7381
+Vallejo	California	38.1079,-122.2639
+Berkeley	California	37.8667,-122.2991
+Norman	Oklahoma	35.22,-97.44
+Allentown	Pennsylvania	40.5940,-75.4782
+Evansville	Indiana	37.9877,-87.5347
+Columbia	Missouri	38.9479,-92.3261
+Boston	Massachusetts	42.3320,-71.0202
+Odessa	Texas	31.8804,-102.3434
+Fargo	North Dakota	46.8652,-96.8290
+Beaumont	Texas	30.0843,-94.1458
+Independence	Missouri	39.0853,-94.3513
+Ann Arbor	Michigan	42.2756,-83.7313
+El Monte	California	34.0746,-118.0291
+Springfield	Illinois	39.7639,-89.6708
+Round Rock	Texas	30.5237,-97.6674
+Wilmington	North Carolina	34.2092,-77.8858
+Arvada	Colorado	39.8097,-105.1066
+Memphis	Tennessee	35.1035,-89.9785
+Provo	Utah	40.2453,-111.6448
+Peoria	Illinois	40.7523,-89.6171
+Lansing	Michigan	42.7098,-84.5562
+Downey	California	33.9382,-118.1309
+Carlsbad	California	33.1239,-117.2828
+Costa Mesa	California	33.6659,-117.9123
+Miami Gardens	Florida	25.9489,-80.2436
+Westminster	Colorado	39.8822,-105.0644
+Clearwater	Florida	27.9795,-82.7663
+Fairfield	California	38.2568,-122.0397
+Nashville	Tennessee	36.1718,-86.7850
+Rochester	Minnesota	44.0154,-92.4772
+Elgin	Illinois	42.0396,-88.3217
+Temecula	California	33.5019,-117.1246
+West Jordan	Utah	40.6023,-112.0010
+Inglewood	California	33.9561,-118.3443
+Richardson	Texas	32.9723,-96.7081
+Lowell	Massachusetts	42.6389,-71.3221
+Gresham	Oregon	45.5023,-122.4416
+Antioch	California	37.9775,-121.7976
+Cambridge	Massachusetts	42.3760,-71.1183
+Portland	Oregon	45.5370,-122.6500
+High Point	North Carolina	35.9855,-79.9902
+Billings	Montana	45.7895,-108.5499
+Manchester	New Hampshire	42.9847,-71.4439
+Murrieta	California	33.5719,-117.1907
+Centennial	Colorado	39.5906,-104.8691
+Richmond	California	37.9530,-122.3594
+Ventura	California	34.2681,-119.2550
+Pueblo	Colorado	38.2731,-104.6124
+Pearland	Texas	29.5544,-95.2958
+Waterbury	Connecticut	41.5585,-73.0367
+Oklahoma City	Oklahoma	35.4671,-97.5137
+West Covina	California	34.0559,-117.9099
+North Charleston	South Carolina	32.8853,-80.0169
+Everett	Washington	48.0033,-122.1742
+College Station	Texas	30.6013,-96.3144
+Palm Bay	Florida	27.9856,-80.6626
+Pompano Beach	Florida	26.2426,-80.1290
+Boulder	Colorado	40.0175,-105.2797
+Norwalk	California	33.9069,-118.0834
+West Palm Beach	Florida	26.7483,-80.1266
+Broken Arrow	Oklahoma	36.0365,-95.7810
+Las Vegas	Nevada	36.2277,-115.2640
+Daly City	California	37.7009,-122.4650
+Sandy Springs	Georgia	33.5615,-84.227
+Burbank	California	34.1890,-118.3249
+Green Bay	Wisconsin	44.5207,-87.9842
+Santa Maria	California	34.9332,-120.4438
+Wichita Falls	Texas	33.9067,-98.5259
+Lakeland	Florida	28.0411,-81.9589
+Clovis	California	36.4931,-119.4211
+Lewisville	Texas	33.0383,-97.0061
+Tyler	Texas	32.35,-95.30
+Baltimore	Maryland	39.3002,-76.6105
+El Cajon	California	32.8017,-116.9605
+San Mateo	California	37.5542,-122.3131
+Rialto	California	34.1118,-117.3883
+Edison	New Jersey	40.5040,-74.3494
+Davenport	Iowa	41.5541,-90.6040
+Hillsboro	Oregon	45.5167,-122.9833
+Woodbridge	New Jersey	40.5608,-74.2926
+Las Cruces	New Mexico	32.3197,-106.7653
+South Bend	Indiana	41.6769,-86.2690
+Vista	California	33.1936,-117.2411
+Chicago	Illinois	41.8376,-87.6818
+Louisville	Kentucky	38.1781,-85.6667
+Greeley	Colorado	40.4167,-104.7167
+Davie	Florida	26.0814,-80.2803
+San Angelo	Texas	31.45,-100.45
+Jurupa Valley	California	33.0011,-117.4706
+Renton	Washington	47.4867,-122.1953
+Milwaukee	Wisconsin	43.0633,-87.9667
+Albuquerque	New Mexico	35.1056,-106.6474
+Tucson	Arizona	32.1543,-110.8711
+Fresno	California	36.7827,-119.7945
+Sacramento	California	38.5666,-121.4686
+Kansas City	Missouri	39.1252,-94.5511
+Long Beach	California	33.8091,-118.1553
+Mesa	Arizona	33.4019,-111.7174
+Atlanta	Georgia	33.7629,-84.4227
+Houston	Texas	29.7805,-95.3863
+Colorado Springs	Colorado	38.8673,-104.7607
+Virginia Beach	Virginia	36.7793,-76.0240
+Raleigh	North Carolina	35.8302,-78.6414
+Omaha	Nebraska	41.2647,-96.0419
+Miami	Florida	25.7752,-80.2086
+Oakland	California	37.7699,-122.2256
+Minneapolis	Minnesota	44.9633,-93.2683
+Tulsa	Oklahoma	36.1279,-95.9023
+Wichita	Kansas	37.6907,-97.3427
+New Orleans	Louisiana	30.0686,-89.9390
+Philadelphia	Pennsylvania	40.0094,-75.1333
+Arlington	Texas	32.7007,-97.1247
+Cleveland	Ohio	41.4781,-81.6795
+Bakersfield	California	35.3212,-119.0183
+Tampa	Florida	27.9701,-82.4797
+Aurora	Colorado	39.7082,-104.8235
+Honolulu	Hawai'i	21.3259,-157.8453
+Anaheim	California	33.8555,-117.7601
+Santa Ana	California	33.7365,-117.8826
+Corpus Christi	Texas	27.7543,-97.1734
+Riverside	California	33.9381,-117.3932
+Phoenix	Arizona	33.5722,-112.0880
+St. Louis	Missouri	38.6357,-90.2446
+Lexington	Kentucky	38.0402,-84.4584
+Stockton	California	37.9763,-121.3133
+Pittsburgh	Pennsylvania	40.4398,-79.9766
+Saint Paul	Minnesota	44.9489,-93.1039
+Anchorage	Alaska	61.2176,-149.8953
+Cincinnati	Ohio	39.1399,-84.5064
+Henderson	Nevada	36.0122,-115.0375
+Greensboro	North Carolina	36.0965,-79.8271
+Plano	Texas	33.0508,-96.7479
+San Antonio	Texas	29.4724,-98.5251
+Newark	New Jersey	40.7242,-74.1726
+Toledo	Ohio	41.6641,-83.5819
+Lincoln	Nebraska	40.8090,-96.6804
+Orlando	Florida	28.4159,-81.2988
+Chula Vista	California	32.6277,-117.0152
+Jersey City	New Jersey	40.7114,-74.0648
+Chandler	Arizona	33.2829,-111.8549
+Fort Wayne	Indiana	41.0882,-85.1439
+Buffalo	New York	42.8925,-78.8597
+Durham	North Carolina	35.9810,-78.9056
+San Diego	California	32.8153,-117.1350
+St. Petersburg	Florida	27.7620,-82.6441
+Irvine	California	33.6784,-117.7713
+Laredo	Texas	27.5477,-99.4869
+Lubbock	Texas	33.5665,-101.8867
+Madison	Wisconsin	43.0878,-89.4301
+Gilbert	Arizona	33.3102,-111.7422
+Norfolk	Virginia	36.9230,-76.2446
+Reno	Nevada	39.4745,-119.7765
+Winston-Salem	North Carolina	36.1033,-80.2606
+Glendale	Arizona	33.5331,-112.1899
+Dallas	Texas	32.7757,-96.7967
+Hialeah	Florida	25.8699,-80.3029
+Garland	Texas	32.9098,-96.6304
+Scottsdale	Arizona	33.6687,-111.8237
+Irving	Texas	32.8577,-96.9700
+Chesapeake	Virginia	36.6794,-76.3018
+North Las Vegas	Nevada	36.2830,-115.0893
+Fremont	California	37.4944,-121.9411
+Baton Rouge	Louisiana	30.4485,-91.1259
+Richmond	Virginia	37.5314,-77.4760
+Boise	Idaho	43.5985,-116.2311

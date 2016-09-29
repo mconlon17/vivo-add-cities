@@ -7,7 +7,7 @@
 
 """
 
-from rdflib import Graph, URIRef, Namespace, RDF, RDFS, Literal
+from rdflib import Graph, URIRef, Namespace, RDF, RDFS, Literal, XSD
 
 __author__ = "Michael Conlon"
 __copyright__ = "Copyright 2016"
@@ -29,6 +29,7 @@ OBO = Namespace('http://purl.obolibrary.org/obo/')
 
 names = {}
 
+
 def add_city(g, label, state_label, latlong):
     """
     Create a city entity
@@ -46,9 +47,9 @@ def add_city(g, label, state_label, latlong):
         uri = URIRef(uri_prefix + str('_'.join(name.split(' ')) + str(names[name])))
 
     g.add((uri, RDF.type, VIVO.PopulatedPlace))
-    g.add((uri, RDFS.label, Literal(label)))
+    g.add((uri, RDFS.label, Literal(label, lang='en')))
     state_uri = URIRef(dbpedia_prefix + '_'.join(state_label.split(' ')))
-    g.add((uri, OBO.BFO_000051, Literal(state_uri)))
+    g.add((uri, OBO.BFO_0000050, URIRef(state_uri)))
 
     #   create a vcard with the geolocation
 
@@ -58,7 +59,7 @@ def add_city(g, label, state_label, latlong):
     vcard_geo_uri = URIRef(str(vcard_uri) + '-geo')
     g.add((vcard_geo_uri, RDF.type, VCARD.Geo))
     g.add((vcard_uri, VCARD.hasGeo, vcard_geo_uri))
-    g.add((vcard_geo_uri, VCARD.geo, Literal('geo:'+latlong)))
+    g.add((vcard_geo_uri, VCARD.geo, Literal('geo:'+latlong, datatype=XSD.string)))
     return
 
 #   Main starts here
@@ -70,10 +71,7 @@ if __name__ == '__main__':
 
     city_file = open('cities.txt')
     for line in city_file:
-        print line
-        a = line.split('\t')
-        print a
-        n, name, state, x1, x2, x3, x4, x5, location = line.strip().split('\t')
+        name, state, location = line.strip().split('\t')
         add_city(city_graph, name, state, location)
 
     #   Generate the RDF file
