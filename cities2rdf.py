@@ -16,7 +16,7 @@ __version__ = "0.1"
 
 #   Constants
 
-uri_prefix = "http://openvivo.org/a/"
+uri_prefix = "http://openvivo.org/a/city"
 dbpedia_prefix = "http://dbpedia.org/resource/"
 vivo_prefix = "http://vivoweb.org/ontology/core#"
 foaf_prefix = "http://xmlns.com/foaf/0.1/"
